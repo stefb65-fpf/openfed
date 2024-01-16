@@ -29,7 +29,7 @@
                             L'envoi des photos se fait par fichier numérique
                         </li>
                         <li class="mt-2">
-                            Les images doivent être d’une largeur maximum de 1920 pixels dans leur plus grande dimension, au format JPG, incluant le profil colorimétrique sRGB et d’un poids maximum de 3 Mo
+                            Les images doivent respecter les contraintes suivantes : leur plus grande dimension doit être de 1920 pixels, être au format JPG, inclure le profil colorimétrique sRGB et ne pas dépasser un poids maximum de 3 Mo
                         </li>
                         <li class="mt-2">
                             Chaque auteur participera avec un maximum de 3 images. Le classement auteur se fera avec le cumul des 3 photos les mieux classées de l'auteur.
