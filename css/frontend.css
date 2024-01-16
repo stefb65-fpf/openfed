@@ -1,0 +1,56 @@
+.lower-footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background: #4d4d4d;
+    color: white;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    display: inline-block;
+    text-align: center;
+}
+.bandeau-cookies {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #f1f1f1;
+    color: #333333;
+    z-index: 1000;
+    padding: 10px;
+    opacity: 1;
+    width: 100%;
+    font-size: 0.8rem;
+}
+.coloc_pave_inscription {
+    color: #333333;
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.coloc_pave_inscription_titre {
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.coloc_photo_inscription {
+    border: 1px dotted #333333;
+    text-align: center;
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coloc_photo_inscription_int {
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 13px;
+}
+.coloc_loader {
+    width: 320px;
+    height: 180px;
+    margin: 0 auto;
+}
